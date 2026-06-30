@@ -2,6 +2,8 @@
 
 > Modular Intelligence for Autonomous Multi-Agent Systems.
 
+Dexscrenner : https://dexscreener.com/solana/8oufjargw98dbgn4slk1npecua498fmcfedox76taxeh
+
 Xaroic AI is a high-performance multi-agent framework written in Rust for building autonomous AI systems at scale. Combining **Belief–Desire–Intention (BDI) cognition**, **FIPA-compliant agent messaging**, and **eight organizational coordination patterns**, Xaroic enables developers to create intelligent, distributed, and collaborative agent ecosystems.
 
 Designed for modern AI applications, robotics, DeFi automation, research, and enterprise workflows, Xaroic provides the building blocks for production-ready autonomous systems.
